@@ -2,7 +2,7 @@
 
 ## Process
 
-1. Downloaded data from icoms solar powered radar cameras.
+1. Downloaded data from [iComs](https://www.icomsdetections.com/) solar powered radar cameras.
 2. Challenge: Multiple versions of cameras, inconsistent data for comparisons.  Decided to merge and then created a custom interactive dashboard.
 
 ![sample screenshot of dashboard](https://github.com/cboyda/Radar-Camera-Dashboard/blob/17e3e54c3113eb673bcb9924fc52fadf0d4bfbfe/sample_dashboard_screenshot.png?raw=true)
